@@ -1,19 +1,18 @@
 {
   "files": {
-    "main.css": "./static/css/main.08cff7b9.chunk.css",
-    "main.js": "./static/js/main.1a2dca3b.chunk.js",
-    "main.js.map": "./static/js/main.1a2dca3b.chunk.js.map",
+    "main.css": "./static/css/main.fbb183c6.chunk.css",
+    "main.js": "./static/js/main.c726ba21.chunk.js",
+    "main.js.map": "./static/js/main.c726ba21.chunk.js.map",
     "runtime-main.js": "./static/js/runtime-main.fb7e7b0c.js",
     "runtime-main.js.map": "./static/js/runtime-main.fb7e7b0c.js.map",
     "static/js/2.f47250fd.chunk.js": "./static/js/2.f47250fd.chunk.js",
     "static/js/2.f47250fd.chunk.js.map": "./static/js/2.f47250fd.chunk.js.map",
     "index.html": "./index.html",
-    "precache-manifest.a44fc24b86a4611c397b064fa2d3bbf6.js": "./precache-manifest.a44fc24b86a4611c397b064fa2d3bbf6.js",
+    "precache-manifest.a4423af5670c94d5414da7a16c1cc96a.js": "./precache-manifest.a4423af5670c94d5414da7a16c1cc96a.js",
     "service-worker.js": "./service-worker.js",
-    "static/css/main.08cff7b9.chunk.css.map": "./static/css/main.08cff7b9.chunk.css.map",
+    "static/css/main.fbb183c6.chunk.css.map": "./static/css/main.fbb183c6.chunk.css.map",
     "static/media/index.css": "./static/media/Montserrat-Regular.ee653992.ttf",
     "static/media/address_image.svg": "./static/media/address_image.16559172.svg",
-    "static/media/animated_ashutosh.png": "./static/media/animated_ashutosh.eaf02c2d.png",
     "static/media/animated_logo.svg": "./static/media/animated_logo.dcd6dee2.svg",
     "static/media/blogs_image.svg": "./static/media/blogs_image.058eca4c.svg",
     "static/media/cloud_infrastructure.svg": "./static/media/cloud_infrastructure.cacbc42b.svg",
@@ -34,7 +33,8 @@
     "static/media/googleAssistant.svg": "./static/media/googleAssistant.a6addc3f.svg",
     "static/media/ibm_logo.png": "./static/media/ibm_logo.d3fccbe1.png",
     "static/media/intel_logo.jpg": "./static/media/intel_logo.29152cf7.jpg",
-    "static/media/ipb.png": "./static/media/ipb.885475ec.png",
+    "static/media/ipb.png": "./static/media/ipb.a9752633.png",
+    "static/media/ipb2.png": "./static/media/ipb2.885475ec.png",
     "static/media/jsFramework.svg": "./static/media/jsFramework.5b4a6449.svg",
     "static/media/legato_logo.png": "./static/media/legato_logo.c597fbde.png",
     "static/media/manOnTable.svg": "./static/media/manOnTable.83ac24fb.svg",
@@ -50,13 +50,13 @@
     "static/media/tiktok_logo.png": "./static/media/tiktok_logo.0993e324.png",
     "static/media/ui_ux_design.svg": "./static/media/ui_ux_design.d6363089.svg",
     "static/media/utem.png": "./static/media/utem.429d451f.png",
-    "static/media/wayy.png": "./static/media/wayy.a3f58f5d.png",
-    "static/media/wayy2.png": "./static/media/wayy2.eb6ad900.png"
+    "static/media/wayy2.png": "./static/media/wayy2.195446b3.png",
+    "static/media/wayy22.png": "./static/media/wayy22.eb6ad900.png"
   },
   "entrypoints": [
     "static/js/runtime-main.fb7e7b0c.js",
     "static/js/2.f47250fd.chunk.js",
-    "static/css/main.08cff7b9.chunk.css",
-    "static/js/main.1a2dca3b.chunk.js"
+    "static/css/main.fbb183c6.chunk.css",
+    "static/js/main.c726ba21.chunk.js"
   ]
 }
